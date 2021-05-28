@@ -16,9 +16,13 @@ Automation in Python
 Python
 
 # Python Packages used in the project
+
 pandas
+
 tkinter
+
 openpyxl
+
 email
 
 # Project Description
