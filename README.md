@@ -53,3 +53,9 @@ Entered Building Name:- buildingname
 Total Number of Leaf required on floor 1 (Plus 1 spare on each floor :- 4 
 Total Number of Leaf required on floor 2 (Plus 1 spare on each floor :- 4 
 
+# Screenshots
+
+![](https://github.com/Jyotiprav/Network-Automation-using-Python/blob/main/screenshot1.png)
+
+![](https://github.com/Jyotiprav/Network-Automation-using-Python/blob/main/screenshot2.png)
+
